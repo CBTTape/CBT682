@@ -1,0 +1,11 @@
+2023-08-06 06:27:58.675931 - Initialized conversion of CBT682
+2023-08-06 06:27:58.740457 - Received CBT.V505.FILE682.PDS from FILE682.XMI 
+2023-08-06 06:27:58.742882 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:27:58.743910 - Found $DOC.txt (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/$DOC
+2023-08-06 06:27:58.751184 - Found $LOADMOD.xmi (application/xmit) in CBT.V505.FILE682.PDS
+2023-08-06 06:27:58.756937   - Received RECFM=U data, stored XMIT file as CBT682/$LOADMOD.xmi
+2023-08-06 06:27:58.758000 - Found @FILE682.txt (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/@FILE682
+2023-08-06 06:27:58.759003 - Found ASMESO.txt (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/ASMESO
+2023-08-06 06:27:58.759933 - Found ESO.rexx (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/ESO
+2023-08-06 06:27:58.760839 - Found ESOPAN2.txt (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/ESOPAN2
+2023-08-06 06:27:58.761783 - Found TSOESO.txt (text/plain) in CBT.V505.FILE682.PDS, moved to PDS/TSOESO
